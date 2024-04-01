@@ -6,7 +6,77 @@
     position: absolute;
     display: inline-block;
     left: 35%; 
-    top: 40vh;
+    top: 70vh;
+    -webkit-transition: all 0.1s ease-out;
+  }
+  #no1{
+    position: absolute;
+    display: inline-block;
+    left: 10%; 
+    top: 55vh;
+    -webkit-transition: all 0.1s ease-out;
+  }
+  #no2{
+    position: absolute;
+    display: inline-block;
+    left: 75%; 
+    top: 25vh;
+    -webkit-transition: all 0.1s ease-out;
+  }
+  #no3{
+    position: absolute;
+    display: inline-block;
+    left: 20%; 
+    top: 65vh;
+    -webkit-transition: all 0.1s ease-out;
+  }
+  #no4{
+    position: absolute;
+    display: inline-block;
+    left: 25%; 
+    top: 15vh;
+    -webkit-transition: all 0.1s ease-out;
+  }
+  #no5{
+    position: absolute;
+    display: inline-block;
+    left: 30%; 
+    top: 30vh;
+    -webkit-transition: all 0.1s ease-out;
+  }
+  #no6{
+    position: absolute;
+    display: inline-block;
+    left: 50%; 
+    top: 30vh;
+    -webkit-transition: all 0.1s ease-out;
+  }
+  #no7{
+    position: absolute;
+    display: inline-block;
+    left: 45%; 
+    top: 15vh;
+    -webkit-transition: all 0.1s ease-out;
+  }
+  #no8{
+    position: absolute;
+    display: inline-block;
+    left: 50%; 
+    top: 60vh;
+    -webkit-transition: all 0.1s ease-out;
+  }
+  #no9{
+    position: absolute;
+    display: inline-block;
+    left: 55%; 
+    top: 70vh;
+    -webkit-transition: all 0.1s ease-out;
+  }
+  #no10{
+    position: absolute;
+    display: inline-block;
+    left: 80%; 
+    top: 55vh;
     -webkit-transition: all 0.1s ease-out;
   }
   #yes{
